@@ -7,11 +7,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/SamoySamoy/bomberman-uet">
+  <a>
     <img src="res/images/logo3.png" alt="Logo" width="700" height="200">
   </a>
 <h3 align="center">BOMBERMAN GAME PROJECT</h3>
-<h4 align="center">Team Name: Team 3</h4>
 </div>
 
 
@@ -23,9 +22,8 @@
 
 | Order |         Name          |     ID      |            Email            |                       Github account                                                     |
 | :---: | :-------------------: | :---------: | :-------------------------: | :---------------------------------------------------------: |
-|   1   | Cao Xuan Dung         | 21020290    |   21020290@vnu.edu.vn       |          [cxddcx271](https://github.com/cxddcx271)          | 
-|   2   | Tran Viet Dung        | 21020009    |   21020009@vnu.edu.vn       |          [SamoySamoy](https://github.com/SamoySamoy)        |
-|   3   | Cong Nghia Hieu       | 21020540    |   21020540@vnu.edu.vn       |          [congnghiahieu](https://github.com/congnghiahieu)  |      
+|   1   | Cao Xuan Dung         | 21020290    |   21020290@vnu.edu.vn       |          [caodung27](https://github.com/caodung27)          | 
+    
 
 <!-- Game -->
 <br/>
