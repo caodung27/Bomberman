@@ -16,19 +16,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## I. Introduction<a name="Introduction"></a>:
-
-### Team Members:
-
-| Order |         Name          |     ID      |            Email            |                       Github account                                                     |
-| :---: | :-------------------: | :---------: | :-------------------------: | :---------------------------------------------------------: |
-|   1   | Cao Xuan Dung         | 21020290    |   21020290@vnu.edu.vn       |          [caodung27](https://github.com/caodung27)          | 
-    
-
-<!-- Game -->
-<br/>
-
-## II. Game<a name="Game"></a>:
+## I. Game<a name="Game"></a>:
 ### Description
 
 - ![](res/sprites/player_down.png) *Bomber* is the main character of the game. Bomber can move in 4 directions left / right / up / down according to the control of the player. 
@@ -65,7 +53,7 @@
 - ![](res/sprites/minvo_dead.png) *Minvo* is the most complex enemy that can dodge bombs and blocks. It can also knows how to chase Bomber when approaching.
 <br/>
 
-## III. UML Class Diagram<a name="UML-class-diagram"></a>:
+## II. UML Class Diagram<a name="UML-class-diagram"></a>:
 
 <div>
     <h3>1. entities</h3>
@@ -112,7 +100,7 @@
 
 <br />
 
-## IV. Summation<a name="Summation"></a>:
+## III. Summation<a name="Summation"></a>:
 
 <div style = "text-align: justify">
 We would like to express our gratitude to our teacher for giving us the opportunity to participate in this project
